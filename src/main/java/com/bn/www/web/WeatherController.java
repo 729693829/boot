@@ -93,4 +93,8 @@ public class WeatherController {
         return "ok";
     }*/
 
+    public void getCll(){
+
+    }
+
 }
