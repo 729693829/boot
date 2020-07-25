@@ -96,5 +96,8 @@ public class WeatherController {
     public void getCll(){
 
     }
+    public void getCall(){
+
+    }
 
 }
